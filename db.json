@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-    "farmaciaId": 1,
+    "id": 1,
     "name": "Farmabelle",
     "phone": "4535412666",
     "urllogo": "http://www.lopscorp.com/logo/farmabelle.png",
@@ -17,7 +17,7 @@
 	},
     "email": "farmabelle@hotmail.com"
   },{
-    "farmaciaId": 2,
+    "id": 2,
     "name": "Farmautil",
     "phone": "4535411414",
     "urllogo": "http://www.lopscorp.com/logo/farmautil.png",
@@ -34,7 +34,7 @@
     "email": "farmautilbr@hotmail.com"
   },
   {
-    "farmaciaId": 3,
+    "id": 3,
     "name": "Farmautil",
     "phone": "4535411414",
     "urllogo": "http://www.lopscorp.com/logo/farmautil.png",
