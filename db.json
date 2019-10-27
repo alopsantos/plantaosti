@@ -1,0 +1,52 @@
+[
+  {
+    "farmaciaId": 1,
+    "name": "Farmabelle",
+    "phone": "4535412666",
+    "urllogo": "http://www.lopscorp.com/logo/farmabelle.png",
+    "address":{
+		  "street":"Av das Nações, 88",
+		  "city":"Santa Terezinha de Itaipu",
+		  "zipcode":"85875000",
+		  "neighborhood":"Centro",
+		  "geo":{
+			  "lat": "-33.1904",
+			  "lng": "-33.1904"
+		}
+	},
+    "email": "farmabelle@hotmail.com"
+  },{
+    "farmaciaId": 2,
+    "name": "Farmautil",
+    "phone": "4535411414",
+    "urllogo": "http://www.lopscorp.com/logo/farmautil.png",
+    "address":{
+		"street":"Rua Primeiro de Maio, 610",
+		"city":"Santa Terezinha de Itaipu - PR",
+		"zipcode":"85875000",
+		"neighborhood":"Centro",
+		"geo":{
+			"lat": "-33.1904",
+			"lng": "-33.1904"
+		}
+	},
+    "email": "farmautilbr@hotmail.com"
+  },
+  {
+    "farmaciaId": 3,
+    "name": "Farmautil",
+    "phone": "4535411414",
+    "urllogo": "http://www.lopscorp.com/logo/farmautil.png",
+    "address":{
+		"street":"Av das Rosas, 2338",
+		"city":"Santa Terezinha de Itaipu - PR",
+		"zipcode":"85875000",
+		"neighborhood":"Jardim Santa Mônica",
+		"geo":{
+			"lat": "-33.1904",
+			"lng": "-33.1904"
+		}
+	},
+    "email": "farmautilsm@hotmail.com"
+  }
+ ]
