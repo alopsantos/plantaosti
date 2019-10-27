@@ -51,7 +51,7 @@
     "email": "farmautilsm@hotmail.com"
   }
   ],
-  "plantoes": [
+  "plantao": [
     { "id": 1, "datetimestart": "2019-10-26 12:00:00", "datetimeend": "2019-11-02 11:59:59", "postId": 1 },
     { "id": 2, "datetimestart": "2019-11-02 12:00:00", "datetimeend": "2019-11-09 11:59:59", "postId": 2 },
     { "id": 3, "datetimestart": "2019-11-09 12:00:00", "datetimeend": "2019-11-16 11:59:59", "postId": 3 }
