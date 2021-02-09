@@ -69,34 +69,6 @@
       "lat": "-25.4429575",
       "lng": "-54.39826,19.71z",
       "email": "farmaciafarmabelle@yahoo.com.br"
-    },
-    {
-      "id": 6,
-      "name": "Clarifarma",
-      "urllogo": "assets/farmacias/farmacia-clarifarma-centro.jpg",
-      "phone": "(45) 3541-3230",
-      "whatsapp": "+554535413230",
-      "street": "Av dos Estados, 1453",
-      "city": "Santa Terezinha de Itaipu",
-      "zipcode": "85875000",
-      "neighborhood": "Centro",
-      "lat": "-25.4370777",
-      "lng": "-54.3979143,19.89z",
-      "email": "clarifarma@email.com"
-    },
-    {
-      "id": 7,
-      "name": "Clarifarma",
-      "urllogo": "https://maps.gstatic.com/tactile/pane/default_geocode-2x.png",
-      "phone": "(45) 3541-2624",
-      "whatsapp": "+554535412624",
-      "street": "Rua Rio de Janeiro, 1700",
-      "city": "Santa Terezinha de Itaipu",
-      "zipcode": "85875000",
-      "neighborhood": "Parque dos Estados",
-      "lat": "-25.4486069",
-      "lng": "-54.4010717,17z",
-      "email": "clarifarma@email.com"
     }
   ],
   "plantoes": [
@@ -150,97 +122,6 @@
       "neighborhood": "Centro",
       "lat": "-25.444094",
       "lng": "-54.3999839,19.99z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 14,
-      "datetimestart": "13/03/2021",
-      "datetimeend": "20/03/2021",
-      "name": "Farma Vilmo",
-      "phone": "(45) 3541-1149",
-      "urllogo": "assets/farmacias/farmacia-farma-vilmo.jpg",
-      "street": "Rua Primeiro de Maio, 149",
-      "neighborhood": "Centro",
-      "lat": "-25.4439472",
-      "lng": "-54.4013689,19.99z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 11,
-      "datetimestart": "20/03/2021",
-      "datetimeend": "27/03/2021",
-      "name": "Coperfarma",
-      "phone": "(45) 3541-0501",
-      "urllogo": "assets/farmacias/farmacia-coperfarma-wagner.jpg",
-      "street": "Rua Primeiro de Maio, 76",
-      "neighborhood": "Centro",
-      "lat": "-25.4443529",
-      "lng": "-54.4010999,18.98z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 3,
-      "datetimestart": "27/03/2021",
-      "datetimeend": "03/04/2021",
-      "name": "Farmavida",
-      "phone": "(45) 3541-2334",
-      "urllogo": "assets/farmacias/farmacia-farma-vida.jpg",
-      "street": "Av dos Estados, 2120",
-      "neighborhood": "Centro",
-      "lat": "-25.4417191",
-      "lng": "-54.4065186,17.92z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 6,
-      "datetimestart": "03/04/2021",
-      "datetimeend": "10/04/2021",
-      "name": "Clarifarma",
-      "phone": "(45) 3541-3230",
-      "urllogo": "assets/farmacias/farmacia-clarifarma-centro.jpg",
-      "street": "Av dos Estados, 1453",
-      "neighborhood": "Centro",
-      "lat": "-25.4370777",
-      "lng": "-54.3979143,19.89z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 8,
-      "datetimestart": "10/04/2021",
-      "datetimeend": "17/04/2021",
-      "name": "São Lucas",
-      "phone": "(45) 3541-0015",
-      "urllogo": "assets/farmacias/farmacia-sao-lucas.jpg",
-      "street": "Rua João XXIII, 433",
-      "neighborhood": "Centro",
-      "lat": "-25.4407902",
-      "lng": "-54.4024187,18z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 9,
-      "datetimestart": "17/04/2021",
-      "datetimeend": "24/04/2021",
-      "name": "Laborfarma",
-      "phone": "(45) 3541-1465",
-      "urllogo": "assets/farmacias/farmacia-laborfarma.jpg",
-      "street": "Rua Primeiro de Maio, 560",
-      "neighborhood": "Centro",
-      "lat": "-25.4402724",
-      "lng": "-54.402999,15.98z",
-      "now": "2021-02-09T19:30"
-    },
-    {
-      "farmacia_id": 10,
-      "datetimestart": "24/04/2021",
-      "datetimeend": "01/05/2021",
-      "name": "Coperfarma",
-      "phone": "(45) 3541-0003",
-      "urllogo": "assets/farmacias/farmacia-coperfarma-ronaldo.jpg",
-      "street": "Rua Primeiro de Maio, 506",
-      "neighborhood": "Centro",
-      "lat": "-25.4405768",
-      "lng": "-54.4033352,19z",
       "now": "2021-02-09T19:30"
     }
   ]
