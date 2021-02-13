@@ -59,7 +59,7 @@
     {
       "id": 5,
       "name": "Farmabelle",
-      "urllogo": "https://maps.gstatic.com/tactile/pane/default_geocode-2x.png",
+      "urllogo": "assets/farmacias/farmacia-farmautil-santamonica.jpg",
       "phone": "(45) 3541-2666",
       "whatsapp": "+554535412666",
       "street": "Av das Nações, 88",
@@ -79,7 +79,7 @@
     "datetimeend": "20/02/2021",
     "name": "Clarifarma",
     "phone": "(45) 3541-2624",
-    "urllogo": "https://maps.gstatic.com/tactile/pane/default_geocode-2x.png",
+    "urllogo": "assets/farmacias/farmacia-farmautil-santamonica.jpg",
     "street": "Rua Rio de Janeiro, 1700",
     "neighborhood": "Parque dos Estados",
     "lat": "-25.4486069",
